@@ -24,20 +24,20 @@ The project employs both linear and logistic regression to model and predict wee
 
 # Data Preprocessing:
 
-1 -Handling missing values.
-2- Encoding categorical variables.
-3- Feature scaling.
+### 1 -Handling missing values.
+### 2- Encoding categorical variables.
+### 3- Feature scaling.
 
 # Model Training:
 
-1- Splitting the data into training and test sets.
-2- Training linear and logistic regression models on the training data.
+### 1- Splitting the data into training and test sets.
+### 2- Training linear and logistic regression models on the training data.
 
 
 # Model Evaluation:
 
-1- Evaluating the models using test data.
-2- Calculation of evaluation metrics.
+### 1- Evaluating the models using test data.
+### 2- Calculation of evaluation metrics.
 
 
 # Conclusion
