@@ -7,16 +7,16 @@ This project aims to predict weekly sales for Walmart stores using machine learn
 
 # Dataset
 
-The dataset consists of the following columns:
+## The dataset consists of the following columns:
 
-Store: The store number.
-Date: The week of sales.
-Weekly_Sales: Sales for the given week.
-Holiday_Flag: Indicates whether the week is a special holiday week (1) or not (0).
-Temperature: Average temperature in the region.
-Fuel_Price: Cost of fuel in the region.
-CPI: Consumer Price Index.
-Unemployment: Unemployment rate.
+### Store: The store number.
+### Date: The week of sales.
+### Weekly_Sales: Sales for the given week.
+### Holiday_Flag: Indicates whether the week is a special holiday week (1) or not (0).
+### Temperature: Average temperature in the region.
+### Fuel_Price: Cost of fuel in the region.
+### CPI: Consumer Price Index.
+### Unemployment: Unemployment rate.
 
 # Methodology
 
